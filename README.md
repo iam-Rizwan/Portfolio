@@ -4,13 +4,7 @@
 
 - [@iam-Rizwan](https://github.com/iam-Rizwan)
 
-
-## Screenshots
-
-![Web Screenshot] 
-
-
-# static-protfolio-website
+# protfolio-website
 
 This website serves as an online portfolio to showcase my web presence, Resume and story of Myself.
 It is generated using using HTML5, Css & Js.
